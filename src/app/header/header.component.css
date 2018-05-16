@@ -1,0 +1,21 @@
+nav {
+    background:rgba(0,0,0,0.2);
+}
+
+.paralax-container {
+    height:500px;
+}
+
+.title {
+    height:436px;
+    color: whitesmoke;
+}
+
+.logo {
+    font-weight: 200;
+    font-size: 48pt;
+}
+
+.tagline {
+    font-size: 16pt;
+}

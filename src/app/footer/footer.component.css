@@ -1,0 +1,17 @@
+.paralax-container {
+    height:200px;
+}
+
+.footer-row {
+    margin-bottom:0;
+}
+
+.footer {
+    height:80px;
+    background-color:rgb(28, 28, 28);
+    margin: 0;
+}
+
+.icon-wrapper {
+    display:flex;
+}
