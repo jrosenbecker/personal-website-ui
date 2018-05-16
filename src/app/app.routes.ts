@@ -3,7 +3,6 @@ import { NgModule } from '@angular/core';
 import { AboutComponent } from './main-content/about/about.component';
 import { BlogComponent } from './main-content/blog/blog.component';
 import { ContactComponent } from './main-content/contact/contact.component';
-import { EditComponent } from './main-content/edit/edit.component';
 
 const appRoutes: Routes = [
     {
