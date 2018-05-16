@@ -1,7 +1,0 @@
-{
-    "verbose": true,
-    "watch": ["src"],
-    "ext": "ts",
-    "ignore": ["node_modules/*"],
-    "exec": "npm start"
-}
