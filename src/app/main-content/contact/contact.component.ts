@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import * as externalLinksConstants from '../../constants/externalLinks';
 
 
 @Component({
@@ -6,4 +7,6 @@ import { Component } from '@angular/core';
     templateUrl: 'contact.component.html',
     styleUrls: ['contact.component.css']
 })
-export class ContactComponent { }
+export class ContactComponent {
+    private externalLinks = externalLinksConstants;
+}

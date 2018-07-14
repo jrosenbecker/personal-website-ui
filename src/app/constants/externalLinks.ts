@@ -1,0 +1,9 @@
+export const EMAIL_ADDRESS = 'rosenbeckerjw@gmail.com';
+export const MAIL_URL = `mailto:${EMAIL_ADDRESS}`;
+export const LINKEDIN_URL = 'https://www.linkedin.com/in/joseph-rosenbecker';
+export const FACEBOOK_URL = 'https://www.facebook.com/joe.rosenbecker';
+export const INSTAGRAM_URL = 'https://www.instagram.com/himynameisjoe44';
+export const TWITTER_URL = 'https://twitter.com/himynameisjoe44';
+export const SOUNDCLOUD_URL = 'https://soundcloud.com/himynameisjoe44';
+export const SPOTIFY_URL = 'https://open.spotify.com/user/joerosenbecker';
+export const GITHUB_URL = 'https://github.com/jrosenbecker';
