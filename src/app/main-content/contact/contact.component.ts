@@ -8,5 +8,5 @@ import * as externalLinksConstants from '../../constants/externalLinks';
     styleUrls: ['contact.component.css']
 })
 export class ContactComponent {
-    private externalLinks = externalLinksConstants;
+    externalLinks = externalLinksConstants;
 }

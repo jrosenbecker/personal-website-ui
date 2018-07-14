@@ -7,5 +7,5 @@ import * as externalLinksConstants from '../constants/externalLinks';
     styleUrls: ['footer.component.css']
 })
 export class FooterComponent {
-    private externalLinks = externalLinksConstants;
+    externalLinks = externalLinksConstants;
 }
